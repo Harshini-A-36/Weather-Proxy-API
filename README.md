@@ -22,8 +22,6 @@ A lightweight backend-only Node.js project that acts as a **proxy server** to se
 
 ## 🚀 How to Run the Project
 
----
-
 
 ### 1. Clone the repository
 
@@ -47,7 +45,7 @@ bash
 Copy code
 node index.js
 ✅ Server runs on: http://localhost:3000
----
+
 
 ## 🌐 Sample API Request
 

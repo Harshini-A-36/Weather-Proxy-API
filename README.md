@@ -23,7 +23,7 @@ A lightweight backend-only Node.js project that acts as a **proxy server** to se
 ## 🚀 How to Run the Project
 
 ---
-## 
+
 
 ### 1. Clone the repository
 
@@ -70,7 +70,7 @@ Send a GET request to:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 * **Node.js** – JavaScript runtime
 * **Express.js** – Web framework
